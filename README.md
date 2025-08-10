@@ -52,6 +52,3 @@ Developed a weather forecast application with real-time weather data and forecas
 2. Open `index.html` in any modern web browser
 3. No build process required - it's a static website
 
-## License
-
-This project is open source and available under the MIT License.
