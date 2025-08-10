@@ -1,0 +1,8 @@
+<svg width="400" height="250" viewBox="0 0 400 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="250" fill="#ec4899"/>
+  <rect x="80" y="60" width="240" height="130" rx="15" fill="white"/>
+  <circle cx="120" cy="100" r="15" fill="#ec4899"/>
+  <rect x="150" y="90" width="120" height="8" rx="4" fill="#d1d5db"/>
+  <rect x="150" y="110" width="80" height="8" rx="4" fill="#d1d5db"/>
+  <text x="200" y="210" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="white">UI/UX Design</text>
+</svg>
